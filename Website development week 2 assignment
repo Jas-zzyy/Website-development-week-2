@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Links</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to my website! Here's an image related to technology:</p>
+        <a href="https://www.google.com/search?client=ms-android-oppo-rev1&sca_esv=f936a1be70cd0bce&sca_upv=1&sxsrf=ACQVn0-lL_0PiFpBeCD9RkFzrVzzGSZh5Q:1711632684665&q=technology+pictures&uds=AMwkrPtcq4cyNHwo8zCTszA6BFWoSqtUrhxaP7eB1NWjfWHwIG_jcZhf96ATzR6XO5QBeMOSF94tfNpCbX8XDGNNMWsJAr1uDMqR3Zta-ZOItGyGHA9KhpLignyvASpH-XxL7bXLudIH7avmh6xi2c6dQ7ZeTz5C-W9lG557utNL53-7SPRByReRvn1yo6TDc9Xluu_FYrWkYFotM3-kFAC0C8evBsWDpGxuTYEfFAx1V4CqAG4AvcDfcdDSAToRGupB8eJnTslh1Qk_XMgkcuf20IJ-ZYi1BCtQX9Nu_tsLZ3p5WeuObEc&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiT357RiJeFAxWNXvEDHYH9A7gQtKgLegQIExAB&biw=424&bih=786&dpr=2.55#vhid=zE22Zdnzh5clTM&vssid=mosaic" target="_blank">
+            <img src="technology_image.jpg" alt="Technology Image">
+        </a>
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <p>Check out these images related to nature:</p>
+        <div class="image-grid">
+            <a href="https://www.google.com/search?client=ms-android-oppo-rev1&sca_esv=f936a1be70cd0bce&sca_upv=1&sxsrf=ACQVn0-acd5-VLgd63Gz7X7Sdp0DvGD3ZA:1711632796312&q=nature+picture&uds=AMwkrPuChM3QNXggeGrmIi9L-QtMEGSlAw7tvv-UmMI6ZhwTZGCy77gQv2PEzbZUeo40W7K3FYl4LBkZE6dLpuVEey6Dait-rbJEIbp67BN-lVrTK5rIY9u_6gA8u5uI1tMBn3BmL0vRGTowds131JrWju9i2s3SecS4x6Qd4F4_Om7bwEjPXHeKGB9nz4PwAWnXEOQWJLb0LbC42Lb9avD3NrBjMZd18rapqzossKNOl7X9CA6LPuLGlD62_-gZnoOBR_mJtwk1T4zsYS6oX0tX9ojkNqAQ5429TaF4wpIcWdXeiBlIjw0&udm=2&prmd=ivsnbmz&sa=X&ved=2ahUKEwjYib2GiZeFAxWqcfEDHbbbDMEQtKgLegQIExAB&biw=424&bih=786&dpr=2.55#vhid=UqPndDmv-D11RM&vssid=mosaic" target="_blank">
+                <img src="nature_image1.jpg" alt="Nature Image 1">
+            </a>
+            <a href="https://www.google.com/search?client=ms-android-oppo-rev1&sca_esv=f936a1be70cd0bce&sca_upv=1&sxsrf=ACQVn0-acd5-VLgd63Gz7X7Sdp0DvGD3ZA:1711632796312&q=nature+picture&uds=AMwkrPuChM3QNXggeGrmIi9L-QtMEGSlAw7tvv-UmMI6ZhwTZGCy77gQv2PEzbZUeo40W7K3FYl4LBkZE6dLpuVEey6Dait-rbJEIbp67BN-lVrTK5rIY9u_6gA8u5uI1tMBn3BmL0vRGTowds131JrWju9i2s3SecS4x6Qd4F4_Om7bwEjPXHeKGB9nz4PwAWnXEOQWJLb0LbC42Lb9avD3NrBjMZd18rapqzossKNOl7X9CA6LPuLGlD62_-gZnoOBR_mJtwk1T4zsYS6oX0tX9ojkNqAQ5429TaF4wpIcWdXeiBlIjw0&udm=2&prmd=ivsnbmz&sa=X&ved=2ahUKEwjYib2GiZeFAxWqcfEDHbbbDMEQtKgLegQIExAB&biw=424&bih=786&dpr=2.55#imgrc=UqPndDmv-D11RM&imgdii=bOxjTpVL8mZpjM" target="_blank">
+                <img src="nature_image2.jpg" alt="Nature Image 2">
+            </a>
+        </div>
+    </section>
+
+    <section id="menu">
+        <h2>Menu</h2>
+        <p>Explore our delicious food items:</p>
+        <ul>
+            <li>
+                <a href="https://www.google.com/search?client=ms-android-oppo-rev1&sca_esv=f936a1be70cd0bce&sca_upv=1&sxsrf=ACQVn0_qF4YuG9nosKAOG6FRnn_m6XkE1Q:1711633158153&q=food+items+in+restaurant&uds=AMwkrPtWrmpB5wUEg_yYbG1USkfHyRCOfxpLtVCrr879oAAUiAUhMZtGNhtyyjtGKTIFC73hd2HiXHNdhebbufKwbA1ydT8wLzfSCPemRA3NBMEYnbfFxOtufmp012AUrVER1Iq1L2TNppLzsJF4sqTWNyBlOmxtyJJ2ZY6O_ZrqC8LNXluPTo5dnrjcE7S6o8mVTmfPwDRUiDkvl-uw5y8x8_9__RAnq_5G11T-_n_vbD20tGSVWskz-fankA2wBOgc05vVum5ZdDS5vR0b_pG-c8xlfvzGEnV8zk3DX7BudR0FDv0eigQrjdCjqxsWDqJOHAcDqOGkh9MYHiXRxuphw4O1LpZADqji6mceq9PjV34BMyGZMLE&udm=2&sa=X&ved=2ahUKEwj7gYKzipeFAxUTQfEDHdhABaQQxKsJegQICxAB&ictx=0&biw=424&bih=786&dpr=2.55#vhid=y9Ay68EeHtgn_M&vssid=mosaic" target="_blank">
+                    Food Item 1
+                </a>
+            </li>
+            <li>
+                <a href="https://www.google.com/search?client=ms-android-oppo-rev1&sca_esv=f936a1be70cd0bce&sca_upv=1&sxsrf=ACQVn0_qF4YuG9nosKAOG6FRnn_m6XkE1Q:1711633158153&q=food+items+in+restaurant&uds=AMwkrPtWrmpB5wUEg_yYbG1USkfHyRCOfxpLtVCrr879oAAUiAUhMZtGNhtyyjtGKTIFC73hd2HiXHNdhebbufKwbA1ydT8wLzfSCPemRA3NBMEYnbfFxOtufmp012AUrVER1Iq1L2TNppLzsJF4sqTWNyBlOmxtyJJ2ZY6O_ZrqC8LNXluPTo5dnrjcE7S6o8mVTmfPwDRUiDkvl-uw5y8x8_9__RAnq_5G11T-_n_vbD20tGSVWskz-fankA2wBOgc05vVum5ZdDS5vR0b_pG-c8xlfvzGEnV8zk3DX7BudR0FDv0eigQrjdCjqxsWDqJOHAcDqOGkh9MYHiXRxuphw4O1LpZADqji6mceq9PjV34BMyGZMLE&udm=2&sa=X&ved=2ahUKEwj7gYKzipeFAxUTQfEDHdhABaQQxKsJegQICxAB&ictx=0&biw=424&bih=786&dpr=2.55#imgrc=y9Ay68EeHtgn_M&imgdii=j0slu-HAesww_M" target="_blank">
+                    Food Item 2
+                </a>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
